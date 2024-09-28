@@ -1,0 +1,1 @@
+WorksSale is a SaaS based sales management software. WorksSale software allows users to buy mobiles from anywhere. It is a responsive website so people can access it from mobile phones or laptop or Tablet etc. People can buy different types and different brands of mobiles in a single place.
